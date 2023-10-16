@@ -1,0 +1,43 @@
+.contentNavbar {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    background-color: white;
+
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+    color:  white;
+
+    margin-left: auto;
+}
+
+.navList li {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navList a {
+    text-decoration: none;
+    color: #00ABB8;
+}
+
+a:hover{
+    color: #FFBF00;
+}
+
+.logo {
+    color: #00ABB8;
+    margin-left: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.colorPet {
+    color: #FFBF00;
+}
