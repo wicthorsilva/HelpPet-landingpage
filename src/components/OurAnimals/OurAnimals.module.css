@@ -93,13 +93,13 @@
     border-radius: 15px;
     background: #FFF;
     box-shadow: 4px 2px 8px 2px rgba(0, 0, 0, 0.50);
-    width: 280px;
-    height: 410px;
+    width: 230px;
+    height: 360px;
   }
   
   .petImage {
     width: 100%;
-    height: 260px;
+    height: 230px;
     flex-shrink: 0;
     border-radius: 15px 15px 0px 0px;
   }
@@ -110,7 +110,7 @@
     text-align: left;
     margin-left: .5rem;
     font-family: Inter;
-    font-size: 20px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 400;
     line-height: 0.2rem;
@@ -119,7 +119,7 @@
   .petName {
     margin-top: 1rem;
     margin-bottom: 1.6rem;
-    font-size: 28px;
+    font-size: 26px;
   }
   
   .infoPet {
@@ -133,10 +133,10 @@
     border-radius: 50px;
     background: #FFBF00;
     width: 90%;
-    height: 44px;
+    height: 30px;
 
     cursor: pointer;
-    font-size: 22px;
+    font-size: 20px;
     transition: background-color 0.3s;
   }
   
