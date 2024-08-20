@@ -1,0 +1,49 @@
+.contentAdoptionStep {
+    background-color: #00ABB8;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.sectionAdoptionStep {
+    margin-top: 6rem;
+}
+
+.sectionAdoptionStep h1 {
+    margin-top: 0.5rem;
+    text-align: center;
+    color: #00ABB8;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 2px
+}
+
+.contentInfo {
+    padding-top: .3rem;
+}
+
+/* 
+.contentImg {
+    display: inline-block;
+} */
+
+.cardText {
+    /* width: 50%; */
+    background-color: #BBDAFF;
+    padding: .5rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 10px;
+    min-height: 100px;
+}
+
+.contentImg{
+    height: 630px;
+}
+.contentImg img{
+    height: 100%;
+    /* width: 100%; */
+}
+

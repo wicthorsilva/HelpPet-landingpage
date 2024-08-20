@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../../components/Header";
 import About from "../../components/About";
 import OurAnimals from "../../components/OurAnimals";
+import AdoptionStep from "../../components/AdoptionStep";
 
 
 
@@ -11,6 +12,7 @@ const LandingPage = () => {
             <Header/>
             <About />
             <OurAnimals />
+            <AdoptionStep />
         </section>
     )
 }
