@@ -1,0 +1,14 @@
+footer {
+    margin-top: 8rem;
+    background-color: #E9E9E9;
+    height: 230px;
+    padding-top: 4rem;
+}
+
+.footerText {
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    
+    
+}
